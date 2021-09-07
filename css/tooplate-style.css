@@ -85,6 +85,7 @@ footer a:link, footer a:visited {
 .tm-bg-dark {
   background: rgba(0, 0, 0, 0.7);
   border-radius: 10px;
+  border-radius: 15px;
 }
 
 .tm-site-header-box {
