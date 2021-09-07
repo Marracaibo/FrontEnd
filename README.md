@@ -37,7 +37,8 @@ $(".slider").slick({
 Dependencies
 jQuery 1.7
 
-i used 8icon for the icons 
+i used 8icon for the icons and unsplash for images.
+i also used normalize css.
 
 Rights: You are permitted to use the resources for any number of personal and commercial projects.
 You may modify the resources according to your requirements and include them into works, such as websites, applications or other materials intended for sale.
