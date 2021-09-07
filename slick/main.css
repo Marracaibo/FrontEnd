@@ -1,4 +1,12 @@
-div.tm-site-header-box tm-bg-dark{
-    border-radius: 25px;
+
+
+div.tm-textbox tm-bg-dark{
+  
+    border-radius: 10px 10px 10px 10px;
+    
+  }
+  div.tm-textbox tm-bg-dark{
+  
+    border-radius: 10px 10px 10px 10px;
     
   }
